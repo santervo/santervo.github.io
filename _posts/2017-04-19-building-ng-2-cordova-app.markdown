@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building Angular 2 based Cordova App"
-date:   2017-04-18 22:07:50 +0300
+date:   2017-04-19 09:50:00 +0300
 categories: angular cordova
 ---
 In this blog post I'm going to experiment building a hybrid mobile application
